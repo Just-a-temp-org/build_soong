@@ -26,7 +26,7 @@ var androidmk_denylist []string = []string{
 	"developers/",
 	"development/",
 	"device/sample/",
-	"frameworks/",
+	//"frameworks/",
 	// Do not block other directories in kernel/, see b/319658303.
 	"kernel/configs/",
 	"kernel/prebuilts/",
